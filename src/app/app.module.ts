@@ -19,7 +19,6 @@ import { SidebarModule } from './sidebar/sidebar.module';
 import { AppComponent } from './app.component';
 import { AdminLayoutComponent } from './layouts/admin-layout/admin-layout.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
-import { ProductsComponent } from './products/products.component';
 
 
 @NgModule({
@@ -44,8 +43,6 @@ import { ProductsComponent } from './products/products.component';
   declarations: [
     AppComponent,
     AdminLayoutComponent,
-    ProductsComponent,
-    // Remove ProductOneComponent from here
   ],
   providers: [],
   bootstrap: [AppComponent]

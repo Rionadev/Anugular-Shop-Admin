@@ -38,7 +38,7 @@ import { ProductsComponent } from 'app/products/products.component';
     NotificationsComponent,
     UpgradeComponent,
     ProductOneComponent, // Declare ProductOneComponent here
-    ProductsComponent
-  ]
+    ProductsComponent,
+  ],
 })
 export class AdminLayoutModule { }
