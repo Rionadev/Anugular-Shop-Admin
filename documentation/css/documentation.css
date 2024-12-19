@@ -4,7 +4,9 @@
     -o-transition: all 150ms linear;
     -ms-transition: all 150ms linear;
     transition: all 150ms linear;
+    background-color: #1e88e5;
 }
+
 .header-wrapper .header, .header-wrapper .header .filter:after {
     height: 100vh !important;
 }
